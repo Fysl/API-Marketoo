@@ -1,0 +1,16 @@
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.deps.json
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.dll
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.pdb
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.csprojAssemblyReference.cache
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.AssemblyInfoInputs.cache
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.AssemblyInfo.cs
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.dll
+C:\Users\Narendherraj\source\repos\bdd-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.pdb
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.deps.json
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.dll
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\bin\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.pdb
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.csprojAssemblyReference.cache
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.AssemblyInfoInputs.cache
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.AssemblyInfo.cs
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.dll
+D:\Marketoo\marketoo-api\SM.SmartNetwork.Bdd.Common\obj\Debug\netcoreapp3.0\SM.SmartNetwork.Bdd.Common.pdb

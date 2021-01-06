@@ -1,0 +1,15 @@
+D:\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.deps.json
+D:\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.dll
+D:\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.pdb
+D:\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.AssemblyInfoInputs.cache
+D:\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.AssemblyInfo.cs
+D:\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.dll
+D:\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.pdb
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.deps.json
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.dll
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\bin\Debug\netcoreapp3.0\Marketoo.Common.pdb
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.csprojAssemblyReference.cache
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.AssemblyInfoInputs.cache
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.AssemblyInfo.cs
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.dll
+C:\Users\Faysal\Desktop\Marketoo\marketoo-api\Marketoo.Common\obj\Debug\netcoreapp3.0\Marketoo.Common.pdb

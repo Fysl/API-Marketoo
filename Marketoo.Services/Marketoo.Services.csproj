@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <AssemblyName>Marketoo.Services</AssemblyName>
+    <RootNamespace>Marketoo.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Marketoo.Models\Marketoo.Entities.csproj" />
+    <ProjectReference Include="..\Marketoo.Repository\Marketoo.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

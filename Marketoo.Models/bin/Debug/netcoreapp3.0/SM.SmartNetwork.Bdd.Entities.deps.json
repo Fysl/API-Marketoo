@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "SM.SmartNetwork.Bdd.Entities/1.0.0": {
+        "dependencies": {
+          "SM.SmartNetwork.Bdd.Common": "1.0.0"
+        },
+        "runtime": {
+          "SM.SmartNetwork.Bdd.Entities.dll": {}
+        }
+      },
+      "SM.SmartNetwork.Bdd.Common/1.0.0": {
+        "runtime": {
+          "SM.SmartNetwork.Bdd.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SM.SmartNetwork.Bdd.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SM.SmartNetwork.Bdd.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketoo.WebAPI", "Marketoo.WebAPI\Marketoo.WebAPI.csproj", "{C91CC77B-6FC7-4D1B-97A6-6A9EB7171F17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketoo.Repository", "Marketoo.Repository\Marketoo.Repository.csproj", "{0AF6790C-CAE6-437F-B41B-BA27F8857BA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketoo.Entities", "Marketoo.Models\Marketoo.Entities.csproj", "{D0F78667-939E-45E0-A8D4-28F0889CF549}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketoo.Services", "Marketoo.Services\Marketoo.Services.csproj", "{DB691923-9271-416B-970B-00E3F43EE983}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketoo.Common", "Marketoo.Common\Marketoo.Common.csproj", "{8C02F10B-CF5D-48C6-9DED-C1C995DE59F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91CC77B-6FC7-4D1B-97A6-6A9EB7171F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91CC77B-6FC7-4D1B-97A6-6A9EB7171F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91CC77B-6FC7-4D1B-97A6-6A9EB7171F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91CC77B-6FC7-4D1B-97A6-6A9EB7171F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AF6790C-CAE6-437F-B41B-BA27F8857BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AF6790C-CAE6-437F-B41B-BA27F8857BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AF6790C-CAE6-437F-B41B-BA27F8857BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AF6790C-CAE6-437F-B41B-BA27F8857BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F78667-939E-45E0-A8D4-28F0889CF549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F78667-939E-45E0-A8D4-28F0889CF549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F78667-939E-45E0-A8D4-28F0889CF549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F78667-939E-45E0-A8D4-28F0889CF549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB691923-9271-416B-970B-00E3F43EE983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB691923-9271-416B-970B-00E3F43EE983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB691923-9271-416B-970B-00E3F43EE983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB691923-9271-416B-970B-00E3F43EE983}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C02F10B-CF5D-48C6-9DED-C1C995DE59F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C02F10B-CF5D-48C6-9DED-C1C995DE59F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C02F10B-CF5D-48C6-9DED-C1C995DE59F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C02F10B-CF5D-48C6-9DED-C1C995DE59F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E73835D-DB2B-4244-A05D-55AE47367843}
+	EndGlobalSection
+EndGlobal
